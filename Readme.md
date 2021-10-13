@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Red Fox](https://up.htmlacademy.ru/htmlcss/32/user/1927119).
-* Наставник: `Неизвестно`.
+* Наставник: [Наталья Зотова](https://htmlacademy.ru/profile/id1079951).
 
 ---
 
